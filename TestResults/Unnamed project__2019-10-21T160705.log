@@ -1,0 +1,126 @@
+﻿2019-10-21T16:07:05.3989709+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-21T16:07:05.3989709+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-21T16:07:05.3989709+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-21T16:07:05.4518307+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\bin\Debug\SeleniumSampleTest.dll
+2019-10-21T16:07:05.4518307+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\TestResults" (default)
+2019-10-21T16:07:05.4528290+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-21T16:07:05.4797551+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\TestResults\Unnamed project__2019-10-21T160705.log
+2019-10-21T16:07:05.4907255+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-21T16:07:05.4987045+01:00;Thread#13;Info;Checking license
+2019-10-21T16:07:05.5166575+01:00;Thread#13;Info;Evaluation mode: test execution starts in 8 seconds... (this delay is removed in the registered version)
+2019-10-21T16:07:13.5179624+01:00;Thread#13;Info;Evaluation delay finished.
+2019-10-21T16:07:13.5249664+01:00;Thread#13;Info;License check completed
+2019-10-21T16:07:13.5249664+01:00;Thread#13;Info;starting test run
+2019-10-21T16:07:13.5369368+01:00;Thread#13;Info;Discovering target: Default
+2019-10-21T16:07:13.5369368+01:00;Thread#13;Info;Discovering tests from assembly: C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\bin\Debug\SeleniumSampleTest.dll
+2019-10-21T16:07:14.0794582+01:00:Appdomain Disposed
+2019-10-21T16:07:14.0794582+01:00;Thread#13;Info;Discovered tests from assembly: C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\bin\Debug\SeleniumSampleTest.dll
+2019-10-21T16:07:14.0804602+01:00:Test Suite Dump
+2019-10-21T16:07:14.0824524+01:00:#0: Unnamed project/ - 
+2019-10-21T16:07:14.0824524+01:00:#1: Default - 
+2019-10-21T16:07:14.0824524+01:00:#2: SeleniumSampleTest - 
+2019-10-21T16:07:14.0824524+01:00:#3: Sign Into Currys - 
+2019-10-21T16:07:14.1263311+01:00:#4: Successful Login - TestAssembly:SeleniumSampleTest/Feature:Sign+Into+Currys/Scenario:Successful+Login
+2019-10-21T16:07:14.1263311+01:00:End: Test Suite Dump
+2019-10-21T16:07:14.1542580+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T16:07:14.1572498+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-21T16:07:14.1572498+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-21T16:07:14.1652288+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T16:07:14.1652288+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-21T16:07:14.1652288+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-21T16:07:14.1652288+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-21T16:07:14.1672246+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-21T16:07:14.1682219+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-21T16:07:14.1712117+01:00:Thread #0: creating new test thread executor for SeleniumSampleTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-21T16:07:14.1742028+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T16:07:14.1742028+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T16:07:14.1761980+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-21T16:07:14.2759331+01:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-21T16:07:14.5611979+01:00:Thread#0:T:-> Loading plugin C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-21T16:07:14.5681812+01:00:Thread#0:T:-> Using default config
+2019-10-21T16:07:24.9727010+01:00:Thread#0:B:Given I have am on the Currys website
+2019-10-21T16:07:29.3506570+01:00:Thread#0:T:done: SignIntoCurrysSteps.GivenIHaveAmOnTheCurrysWebsite() (4.3s)
+2019-10-21T16:07:29.3526488+01:00:Thread#0:B:And I click the sign-in button
+2019-10-21T16:07:31.5922761+01:00:Thread#0:T:error: Exception has been thrown by the target of an invocation.
+2019-10-21T16:07:31.5942550+01:00:Thread#0:B:When I enter my username and passord
+2019-10-21T16:07:31.5942550+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T16:07:31.5942550+01:00:Thread#0:B:When I select the 'I already have an account' button
+2019-10-21T16:07:31.6002387+01:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SeleniumSampleTest:SeleniumSampleTest.SignIntoCurrysSteps.WhenISelectTheButton()' should have 1 parameters
+2019-10-21T16:07:31.6002387+01:00:Thread#0:B:When I click the sign in button
+2019-10-21T16:07:31.6012357+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T16:07:31.6012357+01:00:Thread#0:B:Then the abbreviation of the username should be visible on the dashboard
+2019-10-21T16:07:31.6022340+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T16:07:31.6820200+01:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-10-21T16:07:31.6830168+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T16:07:31.6830168+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-21T16:07:31.6830168+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-21T16:07:31.6830168+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T16:07:31.6830168+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-21T16:07:31.6830168+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-21T16:07:31.6830168+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-21T16:07:31.6830168+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-21T16:07:31.6830168+01:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-10-21T16:07:31.9777508+01:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 17.6998234 seconds
+2019-10-21T16:07:31.9807457+01:00:Thread#0: Test #4/1 is started on thread #0
+2019-10-21T16:07:41.6026826+01:00:Thread#0:B:Given I have am on the Currys website
+2019-10-21T16:07:46.0687947+01:00:Thread#0:T:done: SignIntoCurrysSteps.GivenIHaveAmOnTheCurrysWebsite() (4.5s)
+2019-10-21T16:07:46.0697939+01:00:Thread#0:B:And I click the sign-in button
+2019-10-21T16:07:47.3094767+01:00:Thread#0:T:error: Exception has been thrown by the target of an invocation.
+2019-10-21T16:07:47.3094767+01:00:Thread#0:B:When I enter my username and passord
+2019-10-21T16:07:47.3104762+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T16:07:47.3104762+01:00:Thread#0:B:When I select the 'I already have an account' button
+2019-10-21T16:07:47.3104762+01:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SeleniumSampleTest:SeleniumSampleTest.SignIntoCurrysSteps.WhenISelectTheButton()' should have 1 parameters
+2019-10-21T16:07:47.3104762+01:00:Thread#0:B:When I click the sign in button
+2019-10-21T16:07:47.3114720+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T16:07:47.3114720+01:00:Thread#0:B:Then the abbreviation of the username should be visible on the dashboard
+2019-10-21T16:07:47.3114720+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T16:07:47.3134662+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T16:07:47.3134662+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-21T16:07:47.3134662+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-21T16:07:47.3134662+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T16:07:47.3134662+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-21T16:07:47.3134662+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-21T16:07:47.3134662+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-21T16:07:47.3134662+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-21T16:07:47.3134662+01:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-10-21T16:07:48.5200983+01:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 16.5393526 seconds
+2019-10-21T16:07:48.5200983+01:00:Thread#0: Test #4/2 is started on thread #0
+2019-10-21T16:07:58.2561306+01:00:Thread#0:B:Given I have am on the Currys website
+2019-10-21T16:08:03.9871277+01:00:Thread#0:T:done: SignIntoCurrysSteps.GivenIHaveAmOnTheCurrysWebsite() (5.7s)
+2019-10-21T16:08:03.9871277+01:00:Thread#0:B:And I click the sign-in button
+2019-10-21T16:08:04.3760883+01:00:Thread#0:T:error: Exception has been thrown by the target of an invocation.
+2019-10-21T16:08:04.3770852+01:00:Thread#0:B:When I enter my username and passord
+2019-10-21T16:08:04.3770852+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T16:08:04.3770852+01:00:Thread#0:B:When I select the 'I already have an account' button
+2019-10-21T16:08:04.3770852+01:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SeleniumSampleTest:SeleniumSampleTest.SignIntoCurrysSteps.WhenISelectTheButton()' should have 1 parameters
+2019-10-21T16:08:04.3780866+01:00:Thread#0:B:When I click the sign in button
+2019-10-21T16:08:04.3780866+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T16:08:04.3780866+01:00:Thread#0:B:Then the abbreviation of the username should be visible on the dashboard
+2019-10-21T16:08:04.3780866+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T16:08:04.3790792+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T16:08:04.3790792+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T16:08:04.3790792+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-21T16:08:04.3790792+01:00:Thread#0:Scheduler: No more tests for thread
+2019-10-21T16:08:08.6130551+01:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 20.0929568 seconds
+2019-10-21T16:08:08.6708999+01:00:Appdomain Disposed
+2019-10-21T16:08:08.6738927+01:00:Trying to cancel thread
+2019-10-21T16:08:08.6738927+01:00:Thread cancelled
+2019-10-21T16:08:08.6918443+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-21T16:08:08.6918443+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T16:08:08.6918443+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-21T16:08:08.7028152+01:00;Thread#13;Info;test run finished
+2019-10-21T16:08:08.7028152+01:00;Thread#13;Info;publishing test results
+2019-10-21T16:08:08.7137861+01:00;Thread#13;Info;test results published
+2019-10-21T16:08:08.7137861+01:00;Thread#13;Info;generating reports
+2019-10-21T16:08:08.8903720+01:00;Thread#13;Info;Starting external report generation process
+2019-10-21T16:08:11.4706189+01:00;Thread#13;Info;Successfully generated reports.
+2019-10-21T16:08:11.4716172+01:00;Thread#13;Info;Successfully generated reports
+2019-10-21T16:08:11.4846136+01:00:Total: 1 (test executions: 3)
+2019-10-21T16:08:11.4865776+01:00:Succeeded: 0
+2019-10-21T16:08:11.4875744+01:00:Ignored: 0
+2019-10-21T16:08:11.4885723+01:00:Pending: 0
+2019-10-21T16:08:11.4885723+01:00:Skipped: 0
+2019-10-21T16:08:11.4895708+01:00:Failed: 1
+2019-10-21T16:08:11.5065234+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-21T16:08:11.5065234+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\TestResults\Unnamed project__2019-10-21T160705.html'
+========== End of log file ==========

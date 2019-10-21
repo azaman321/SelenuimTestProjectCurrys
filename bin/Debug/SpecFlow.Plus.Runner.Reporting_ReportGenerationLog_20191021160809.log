@@ -1,0 +1,10 @@
+﻿2019-10-21T16:08:09.4919106+01:00;Thread#1;Info;Reading test run result from Json file "C:\Users\azabo\AppData\Local\Temp\tmpAB19.tmp".
+2019-10-21T16:08:09.4949340+01:00;Thread#1;Info;Successfully read test run result from Json file "C:\Users\azabo\AppData\Local\Temp\tmpAB19.tmp"
+2019-10-21T16:08:09.4949340+01:00;Thread#1;Info;Deserializing test run result
+2019-10-21T16:08:10.0833313+01:00;Thread#1;Info;Successfully deserialized test run result
+2019-10-21T16:08:10.0833313+01:00;Thread#1;Info;Loading test run result
+2019-10-21T16:08:10.1102647+01:00;Thread#1;Info;Successfully loaded test run result
+2019-10-21T16:08:10.1242196+01:00;Thread#1;Info;creating 1 report(s)
+2019-10-21T16:08:10.1242196+01:00;Thread#1;Info;generate Report ReportTemplate.cshtml
+2019-10-21T16:08:11.3968512+01:00;Thread#1;Info;Finished generating reports.
+========== End of log file ==========

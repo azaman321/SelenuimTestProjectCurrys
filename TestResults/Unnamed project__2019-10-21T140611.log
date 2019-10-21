@@ -1,0 +1,81 @@
+﻿2019-10-21T14:06:11.6122025+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-21T14:06:11.6122025+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-21T14:06:11.6122025+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-21T14:06:11.6461440+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\bin\Debug\SeleniumSampleTest.dll
+2019-10-21T14:06:11.6471097+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\TestResults" (default)
+2019-10-21T14:06:11.6471097+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-21T14:06:11.6680531+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\TestResults\Unnamed project__2019-10-21T140611.log
+2019-10-21T14:06:11.6790258+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-21T14:06:11.6850325+01:00;Thread#17;Info;Checking license
+2019-10-21T14:06:11.7049797+01:00;Thread#17;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2019-10-21T14:06:21.7062931+01:00;Thread#17;Info;Evaluation delay finished.
+2019-10-21T14:06:21.7132423+01:00;Thread#17;Info;License check completed
+2019-10-21T14:06:21.7132423+01:00;Thread#17;Info;starting test run
+2019-10-21T14:06:21.7511409+01:00;Thread#17;Info;Discovering target: Default
+2019-10-21T14:06:21.7511409+01:00;Thread#17;Info;Discovering tests from assembly: C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\bin\Debug\SeleniumSampleTest.dll
+2019-10-21T14:06:21.8514422+01:00:Appdomain Disposed
+2019-10-21T14:06:21.8514422+01:00;Thread#17;Info;Discovered tests from assembly: C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\bin\Debug\SeleniumSampleTest.dll
+2019-10-21T14:06:21.8524386+01:00:Test Suite Dump
+2019-10-21T14:06:21.8544592+01:00:#0: Unnamed project/ - 
+2019-10-21T14:06:21.8544592+01:00:#1: Default - 
+2019-10-21T14:06:21.8544592+01:00:#2: SeleniumSampleTest - 
+2019-10-21T14:06:21.8544592+01:00:#3: Sign Into Currys - 
+2019-10-21T14:06:21.8903366+01:00:#4: Successful Login - TestAssembly:SeleniumSampleTest/Feature:Sign+Into+Currys/Scenario:Successful+Login
+2019-10-21T14:06:21.8903366+01:00:End: Test Suite Dump
+2019-10-21T14:06:21.9162930+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T14:06:21.9182872+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-21T14:06:21.9182872+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-21T14:06:21.9232502+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T14:06:21.9232502+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-21T14:06:21.9232502+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-21T14:06:21.9232502+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-21T14:06:21.9242714+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-21T14:06:21.9252695+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-21T14:06:21.9292580+01:00:Thread #0: creating new test thread executor for SeleniumSampleTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-21T14:06:21.9312517+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T14:06:21.9312517+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T14:06:21.9322254+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-21T14:06:22.3553941+01:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-21T14:06:22.6024594+01:00:Thread#0:T:-> Loading plugin C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-21T14:06:22.6357688+01:00:Thread#0:T:-> Using default config
+2019-10-21T14:06:22.7384941+01:00:Thread#0:B:Given I have am on the Currys website
+2019-10-21T14:06:22.9485889+01:00:Thread#0:T:pending: SignIntoCurrysSteps.GivenIHaveAmOnTheCurrysWebsite()
+2019-10-21T14:06:22.9495858+01:00:Thread#0:B:And I click the sign-in button
+2019-10-21T14:06:22.9505831+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T14:06:22.9505831+01:00:Thread#0:B:When I enter my username and passord
+2019-10-21T14:06:22.9505831+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T14:06:22.9505831+01:00:Thread#0:B:When I select the 'I already have an account' button
+2019-10-21T14:06:22.9545723+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T14:06:22.9545723+01:00:Thread#0:B:When I click the sign in button
+2019-10-21T14:06:22.9555700+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T14:06:22.9555700+01:00:Thread#0:B:Then the abbreviation of the username should be visible on the dashboard
+2019-10-21T14:06:22.9555700+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T14:06:22.9635520+01:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2019-10-21T14:06:22.9635520+01:00:Thread#0:T:  SignIntoCurrysSteps.GivenIHaveAmOnTheCurrysWebsite()
+2019-10-21T14:06:22.9705298+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T14:06:22.9705298+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T14:06:22.9705298+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-21T14:06:22.9705298+01:00:Thread#0:Scheduler: No more tests for thread
+2019-10-21T14:06:22.9974930+01:00:Thread#0: Test #4/0 is finished on thread #0 as Pending within 0.6411013 seconds
+2019-10-21T14:06:23.0144628+01:00:Appdomain Disposed
+2019-10-21T14:06:23.0154454+01:00:Trying to cancel thread
+2019-10-21T14:06:23.0154454+01:00:Thread cancelled
+2019-10-21T14:06:23.0224339+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-21T14:06:23.0224339+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T14:06:23.0224339+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-21T14:06:23.0254189+01:00;Thread#17;Info;test run finished
+2019-10-21T14:06:23.0254189+01:00;Thread#17;Info;publishing test results
+2019-10-21T14:06:23.0902461+01:00;Thread#17;Info;test results published
+2019-10-21T14:06:23.0902461+01:00;Thread#17;Info;generating reports
+2019-10-21T14:06:23.2151287+01:00;Thread#17;Info;Starting external report generation process
+2019-10-21T14:06:27.3854984+01:00;Thread#17;Info;Successfully generated reports.
+2019-10-21T14:06:27.3904860+01:00;Thread#17;Info;Successfully generated reports
+2019-10-21T14:06:27.4383577+01:00:Total: 1
+2019-10-21T14:06:27.4453447+01:00:Succeeded: 0
+2019-10-21T14:06:27.4463422+01:00:Ignored: 0
+2019-10-21T14:06:27.4473352+01:00:Pending: 1
+2019-10-21T14:06:27.4473352+01:00:Skipped: 0
+2019-10-21T14:06:27.4483310+01:00:Failed: 0
+2019-10-21T14:06:27.4872274+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-21T14:06:27.4872274+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\azabo\Desktop\Selenium\SeleniumSampleTest\TestResults\Unnamed project__2019-10-21T140611.html'
+========== End of log file ==========
